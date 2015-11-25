@@ -1,0 +1,26 @@
+{
+  "name": "shower-markdown",
+  "description": "",
+  "version": "0.0.1",
+  "author": {
+    "name": "Denis Hananein",
+    "url": "http://zloylos.me/"
+  },
+  "homepage": "https://github.com/zloylos/shower-markdown",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zloylos/shower-markdown.git"
+  },
+  "bugs": {
+    "url": "http://github.com/zloylos/shower-markdown/issues"
+  },
+  "licenses": "MIT",
+  "keywords": [
+    "shower",
+    "presentation",
+    "plugin",
+    "timer"
+  ],
+  "devDependencies": {
+  }
+}
