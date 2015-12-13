@@ -22,5 +22,12 @@
     "timer"
   ],
   "devDependencies": {
+    "markdown-it": "^5.0.2",
+    "markdown-it-container": "^2.0.0",
+    "json-loader": "^0.5.4",
+    "webpack": "^1.12.9"
+  },
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
   }
 }
