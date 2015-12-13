@@ -1,5 +1,6 @@
-shower.modules.define('shower-markdown', function (provide) {
-    var Plugin = require('./lib/Plugin');
+var Plugin = require('./lib/Plugin');
+shower.modules.define('shower-markdown', ['Slide'], function (provide, Slide) {
+    Plugin.Slide = Slide;
     provide(Plugin);
 });
 
